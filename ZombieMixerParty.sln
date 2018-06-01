@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieMixerParty", "Assembly-CSharp-firstpass.csproj", "{DB69BA74-3D1E-0657-F00B-4C9025270B35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieMixerParty", "Assembly-CSharp.csproj", "{DCD9616F-8A5C-C90E-F0C0-3986A75E66DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieMixerParty", "Assembly-CSharp-Editor-firstpass.csproj", "{35195D42-6F9F-F867-F4B9-30401668E39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB69BA74-3D1E-0657-F00B-4C9025270B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB69BA74-3D1E-0657-F00B-4C9025270B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB69BA74-3D1E-0657-F00B-4C9025270B35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB69BA74-3D1E-0657-F00B-4C9025270B35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD9616F-8A5C-C90E-F0C0-3986A75E66DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD9616F-8A5C-C90E-F0C0-3986A75E66DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD9616F-8A5C-C90E-F0C0-3986A75E66DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD9616F-8A5C-C90E-F0C0-3986A75E66DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35195D42-6F9F-F867-F4B9-30401668E39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35195D42-6F9F-F867-F4B9-30401668E39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35195D42-6F9F-F867-F4B9-30401668E39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35195D42-6F9F-F867-F4B9-30401668E39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
